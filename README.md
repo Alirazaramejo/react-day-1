@@ -2,5 +2,5 @@
 
 1) first clone it repo
 2) then nmp i
-3) then bpm run dev
-4) 
+3) then npm run dev
+   
